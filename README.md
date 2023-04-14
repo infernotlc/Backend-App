@@ -1,6 +1,7 @@
 # http_demo
 
-A new Flutter project.
+App for working on restfull structure. Api services-Api Client
+
 
 ## Getting Started
 
